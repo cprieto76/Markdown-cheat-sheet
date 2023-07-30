@@ -86,6 +86,7 @@ Example 2.
 1. Open the file containing the image.
 2. Marvel at its beauty.
 
-    ![python logo](/assets/images/python logo.jpg)
+    ![python logo](Markdown-cheat-sheet/assets/images
+/python logo.jpg)
 
 3. Close the file.

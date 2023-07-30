@@ -22,8 +22,18 @@ If you feel the material helpful to you, maybe **bought me a cup of coffee?** Th
 # 8. Images
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 100>
 </p>
+
+<h1 align='center'>
+ <b>GITHUB </b>
+</h1>
+
+
+<p align="center">
+ <img src="https://www.malwarebytes.com/blog/news/2023/03/easset_upload_file13810_262604_e.png" height = 100>
+</p>
+
 
 # 1. Headings
 

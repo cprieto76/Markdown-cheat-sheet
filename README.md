@@ -12,6 +12,19 @@ If you feel the material helpful to you, maybe **bought me a cup of coffee?** Th
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cornelliusyudhawijaya/Causal_Analysis/HEAD)
 
+# 14. Table
+
+|Article|Link|
+|---|---|
+|Estimate the Causal Effect Intervention on Time Series with causalimpact|[Link](https://towardsdatascience.com/estimate-the-causal-effect-intervention-on-time-series-with-causalimpact-e949c5cd4147?sk=777ddf39adeca0f5ba2c0daa68f7f29c)|
+|A Quickstart for Causal Analysis Decision-Making with DoWhy|[Link](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9?sk=0e9fe1b94eff51362c2fa58fb702dfb8)|
+
+# 8. Images
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 200>
+</p>
+
 # 1. Headings
 
 # Heading level 1
@@ -94,12 +107,6 @@ Example 2.
 - Third item
 - Fourth item
 
-# 8. Images
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 200>
-</p>
-
 # 9. Code
 At the command prompt, type `nano`.
 
@@ -119,11 +126,5 @@ If you want to learn more markdown , go to [markdownguide](https://www.markdowng
 
 <ins>This text must be underlined</ins> 
 
-# 14. Table
-
-|Article|Link|
-|---|---|
-|Estimate the Causal Effect Intervention on Time Series with causalimpact|[Link](https://towardsdatascience.com/estimate-the-causal-effect-intervention-on-time-series-with-causalimpact-e949c5cd4147?sk=777ddf39adeca0f5ba2c0daa68f7f29c)|
-|A Quickstart for Causal Analysis Decision-Making with DoWhy|[Link](https://medium.com/geekculture/a-quickstart-for-causal-analysis-decision-making-with-dowhy-2ce2d4d1efa9?sk=0e9fe1b94eff51362c2fa58fb702dfb8)|
 
 

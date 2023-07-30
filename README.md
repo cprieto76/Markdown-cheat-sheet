@@ -83,13 +83,19 @@ Example 2.
 - Fourth item
 
 # 8. Images
-1. Open the file containing the image.
-2. Marvel at its beauty.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 200>
 </p>
 
+# 9. Code
+At the command prompt, type `nano`.
 
+# 10. Horizontal Rules
+This is a horizontal rule
+***
+Up here !
 
-3. Close the file.
+# 11. Links
+If you want to learn more markdown , go to [markdownguide](https://www.markdownguide.org/basic-syntax//).
+

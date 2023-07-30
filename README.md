@@ -86,6 +86,7 @@ Example 2.
 1. Open the file containing the image.
 2. Marvel at its beauty.
 
+<img https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&tbnid=GoXB3tma5wjkyM&vet=12ahUKEwivpeyH-7aAAxV9WTABHYDxCFMQMyg4egUIARCCAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&w=1200&h=1315&q=images%20of%20python&ved=2ahUKEwivpeyH-7aAAxV9WTABHYDxCFMQMyg4egUIARCCAQ
     ![python logo](Markdown-cheat-sheet/assets/images
 /python logo.jpg)
 

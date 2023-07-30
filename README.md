@@ -99,3 +99,12 @@ Up here !
 # 11. Links
 If you want to learn more markdown , go to [markdownguide](https://www.markdownguide.org/basic-syntax//).
 
+# 12. URLs and Email Addresses
+<https://www.markdownguide.org>     
+<fake@example.com>
+
+# 13. Underlined
+
+<ins>This text must be underlined</ins> 
+
+

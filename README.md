@@ -83,9 +83,9 @@ Example 2.
 - Fourth item
 
 # 8. Images
-1. Open the file containing the Linux mascot.
+1. Open the file containing the image.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![python logo](/assets/images/python logo.jpg)
 
 3. Close the file.

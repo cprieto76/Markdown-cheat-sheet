@@ -114,7 +114,7 @@ Example 2.
 - Fourth item
 
 # 10. Code
-At the command prompt, type `nano`.
+At the command prompt, type `nano`. (Alt+96 = ` )
 
 # 11. Horizontal Rules
 This is a horizontal rule
